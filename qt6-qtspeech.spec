@@ -1,4 +1,4 @@
-%define beta beta1
+%define beta beta2
 
 Name:		qt6-qtspeech
 Version:	6.6.0
